@@ -104,6 +104,7 @@ Top-Performing Areas:
 - **Staff:** Positive feedback about staff performance indicates strong customer service.
   
 - **Breakfast & Surroundings:** Amenities like breakfast and the hotel's general ambiance contributed to a positive experience.
+  
 
 **Negative Sentiments Word Cloud**
 
