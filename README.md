@@ -120,7 +120,8 @@ The negative sentiment word cloud highlights words such as "room," "floor," "neu
 **- Service Issues:** The mention of "angry" and "complaints" indicates customer dissatisfaction with response times or customer service quality.
 
 ### 7. Challenges
-- One of the challenges I faced during this analysis was extracting actionable insights from extremely short reviews, where sentiment might not always be clear.
+
+- the challenges I faced during this analysis were extracting actionable insights from extremely short reviews, where sentiment might not always be clear.
 
 - separating where a client gave both negative and positive reviews.
 
