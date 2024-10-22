@@ -95,12 +95,15 @@ To visualize the most frequent words in each sentiment category, I generated two
 
 The positive sentiment word cloud reveals key terms like "location," "great," "staff," and "breakfast." The prominence of words like "hotel" and "beautiful" indicates that customers appreciated the physical aspects and ambiance of the hotel, while "staff" and "service" suggest that customer service was a notable factor in positive feedback.
 
-**Insights from Positive Sentiments:**
+###### **Insights from Positive Sentiments:**
 
 Top-Performing Areas:
-Location: Customers frequently mentioned the convenience and attractiveness of the hotel's location.
-Staff: Positive feedback about staff performance indicates strong customer service.
-Breakfast & Surroundings: Amenities like breakfast and the hotel's general ambiance contributed to a positive experience.
+
+- **Location:** Customers frequently mentioned the convenience and attractiveness of the hotel's location.
+  
+- **Staff:** Positive feedback about staff performance indicates strong customer service.
+  
+- **Breakfast & Surroundings:** Amenities like breakfast and the hotel's general ambiance contributed to a positive experience.
 
 **Negative Sentiments Word Cloud**
 
@@ -108,13 +111,13 @@ Breakfast & Surroundings: Amenities like breakfast and the hotel's general ambia
 
 The negative sentiment word cloud highlights words such as "room," "floor," "neutral," and "angry." Complaints centered around issues with the room, possibly related to cleanliness or maintenance, as well as dissatisfaction with available facilities.
 
-**Insights from Negative Sentiments:**
+###### **Insights from Negative Sentiments:**
 
-Improvement Areas:
+**Improvement Areas:**
 
-- Room Conditions: Words like "floor," "hot," and "dirty" suggest recurring issues with the cleanliness and comfort of rooms.
+**- Room Conditions:** Words like "floor," "hot," and "dirty" suggest recurring issues with the cleanliness and comfort of rooms.
   
-- Service Issues: The mention of "angry" and "complaints" indicates customer dissatisfaction with response times or customer service quality.
+**- Service Issues:** The mention of "angry" and "complaints" indicates customer dissatisfaction with response times or customer service quality.
 
 ### 7. Challenges
 - One of the challenges I faced during this analysis was extracting actionable insights from extremely short reviews, where sentiment might not always be clear.
